@@ -1,5 +1,4 @@
-Hello, I am Dorothy 😃
-Currently seeking opportunities in Backend Software Engineering
+<h3>Tech Profile</h3>
 <br>
 <br>
 <br>
