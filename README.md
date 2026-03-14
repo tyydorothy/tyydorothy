@@ -9,4 +9,4 @@ I am currently learning Bioinformatics related tools! :) <br>
 <img src="./images/python-logo.svg" alt="Python" width="100" height="100"> &ensp; <img src="./images/r-logo.svg" alt="R" width="100" height="100"> &ensp; <img src="./images/mysql-logo.png" alt="MySQL" width="150" height="100"> &ensp;
 
 <br>
-See my [Leetcode](https://leetcode.com/u/tyydorothy/)
+See my <a href="https://leetcode.com/u/tyydorothy/" target="_blank">LeetCode</a>
