@@ -1,6 +1,6 @@
 ### Greetings! This is Dorothy 👋🏻
 
-I am currently learning Bioinformatics related tools! :) <br>
+I am learning Bioinformatics related tools! :) <br>
 
 ### Working on 
 <img src="./images/snakemake-logo.png" alt="snakemake" width="100" height="100"> &ensp; <img src="./images/docker-logo.svg" alt="docker" width="100" height="100"> &ensp;
